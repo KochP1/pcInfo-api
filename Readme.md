@@ -20,8 +20,6 @@ A REST API built with Express.js and TypeScript that retrieves detailed system i
 - **TypeScript** - Type-safe JavaScript superset
 - **Node.js OS Module** - Native system utilities (no external dependencies)
 - **PowerShell** - Windows system management (for printer detection)
-- **CORS** - Cross-origin resource sharing middleware
-- **dotenv** - Environment variable management
 - **Nodemon** - Development server with hot reload
 
 ## 📋 Prerequisites
