@@ -5,7 +5,6 @@ A REST API built with Express.js and TypeScript that retrieves detailed system i
 ## 🚀 Features
 
 - ✅ **Operating System Information** - Platform, architecture, and hostname
-- ✅ **Hardware Details** - CPU information, memory usage, and system uptime
 - ✅ **Network Information** - All IPv4 network interfaces and their addresses
 - ✅ **Default Printer Detection** - Windows printer details with driver analysis
 - ✅ **Cross-Platform Support** - Designed with Windows focus, extensible to other OS
